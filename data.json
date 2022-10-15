@@ -3960,6 +3960,34 @@
        "genre": ["Heart Broke","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
     },
+       {
+          "id": 251,
+          "name": "Pehli Dafa",
+          "lyrics": "https://genius.com/Atif-aslam-pehli-dafa-lyrics",
+          "album": "Pehli Dafa",            
+          "Duration": "4 min 42 sec",
+          "singer": [
+             "Atif Aslam"
+          ],
+          "genre": [
+             "Romantic"
+          ],
+          "link": "https://www.youtube.com/watch?v=SxTYjptEzZs"
+       },
+       {
+          "id": 252,
+          "name": "Waada Hai",
+          "lyrics": "https://www.azlyrics.com/lyrics/arjunkanungo/waadahai.html",
+          "album": "Waada Hai",            
+          "Duration": "4 min 44 sec",
+          "singer": [
+             "Arjun Kanunga"
+          ],
+          "genre": [
+             "Romantic"
+          ],
+          "link": "https://youtube.com/watch?v=tqBTGJ3FXRE"
+       },
     
     ]
     
